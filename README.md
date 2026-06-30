@@ -1,6 +1,6 @@
 # DnB-Sound-Station
+
 DnB / big-beat sound station as a single HTML file.
-https://interstellar-hitchhiker.github.io/DnB-Sound-Station/
 
 What it has:
 
